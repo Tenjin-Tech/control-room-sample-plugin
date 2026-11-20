@@ -1,0 +1,7 @@
+{
+  "id": "hello",
+  "name": "Hello",
+  "version": "1.0.0",
+  "access": "full",
+  "description": "The smallest Control Room plugin: one line of instructions for every agent, and a log line when a thread changes state."
+}
